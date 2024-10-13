@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/http/annaavetyan.github.io/movie-page-task/static/css/main.e4c80dab.css",
+    "main.js": "/http/annaavetyan.github.io/movie-page-task/static/js/main.deb2390f.js",
+    "static/js/453.ed3810f9.chunk.js": "/http/annaavetyan.github.io/movie-page-task/static/js/453.ed3810f9.chunk.js",
+    "static/media/FeaturedCoverImage.png": "/http/annaavetyan.github.io/movie-page-task/static/media/FeaturedCoverImage.3b40049b902e17981f91.png",
+    "static/media/fa-solid-900.ttf": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/https_specials-1.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-1.fc3a28f87943c3bee908.png",
+    "static/media/https_specials-8.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-8.0048dec35a4cf4cb8ff7.png",
+    "static/media/https_specials-5.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-5.12810bd3ded58324c48e.png",
+    "static/media/https_specials-6.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-6.38b6716b26c954e24ba1.png",
+    "static/media/https_specials-7.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-7.4815e4dcc34b202b203d.png",
+    "static/media/https_specials-2.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-2.d54d1960d0f6be421cce.png",
+    "static/media/fa-brands-400.woff2": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/https_specials-4.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-4.11f6f8ae6020f84cb2f5.png",
+    "static/media/https_specials-3.png": "/http/annaavetyan.github.io/movie-page-task/static/media/https_specials-3.f25ccc61eb857efc7d95.png",
+    "static/media/fa-regular-400.ttf": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/FeaturedTitleImage.png": "/http/annaavetyan.github.io/movie-page-task/static/media/FeaturedTitleImage.ee484156ac9cc73d829d.png",
+    "static/media/fa-regular-400.woff2": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/userIcon.png": "/http/annaavetyan.github.io/movie-page-task/static/media/userIcon.9dc92b0a1003b149f6c9.png",
+    "static/media/fa-v4compatibility.ttf": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/http/annaavetyan.github.io/movie-page-task/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/logo.svg": "/http/annaavetyan.github.io/movie-page-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/http/annaavetyan.github.io/movie-page-task/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/http/annaavetyan.github.io/movie-page-task/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/http/annaavetyan.github.io/movie-page-task/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/http/annaavetyan.github.io/movie-page-task/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/http/annaavetyan.github.io/movie-page-task/index.html",
+    "main.e4c80dab.css.map": "/http/annaavetyan.github.io/movie-page-task/static/css/main.e4c80dab.css.map",
+    "main.deb2390f.js.map": "/http/annaavetyan.github.io/movie-page-task/static/js/main.deb2390f.js.map",
+    "453.ed3810f9.chunk.js.map": "/http/annaavetyan.github.io/movie-page-task/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c80dab.css",
+    "static/js/main.deb2390f.js"
+  ]
+}
